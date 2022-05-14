@@ -1,1 +1,1 @@
-# G-n-rateur-Valorant
+# Generateur-Valorant
